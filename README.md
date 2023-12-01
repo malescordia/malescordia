@@ -1,6 +1,4 @@
-work in progress...
-
-# Welcome to Malescordia's GitHub Playground 🚀
+# Welcome to malescordia's GitHub Playground 🚀
 
 ## About Me
 - Junior C / C++ Developer
@@ -15,8 +13,4 @@ work in progress...
 - [minitalk](https://github.com/malescordia/minitalk): Simple, yet powerful inter-process communication.
 - [push_swap](https://github.com/malescordia/push_swap): Sorting stacks with elegance.
 
-## Access Control 🔐
-- Press the magic number `42` to reveal the secret gateway to my project repositories.
-
 Feel free to explore and enjoy the journey through my code!
-
