@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/NfmhDyrc/introgithub2.png"></img>
-
 ## About Me
 - Junior C / C++ Developer
 - Student @42Lisbon
