@@ -1,4 +1,4 @@
-# Welcome to malescordia's GitHub Playground 🚀
+<img src="https://i.postimg.cc/JnFw6Zq1/introgithub3.png"></img>
 
 ## About Me
 - Junior C / C++ Developer
