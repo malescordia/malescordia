@@ -5,3 +5,4 @@
 - [so_long](https://github.com/malescordia/so_long)
 - [minitalk](https://github.com/malescordia/minitalk)
 - [push_swap](https://github.com/malescordia/push_swap)
+- [philosophers](https://github.com/malescordia/philosophers)
