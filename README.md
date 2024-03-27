@@ -41,16 +41,3 @@
     <a href="https://github.com/malescordia/ft_printf"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/ft_printfe.png"></img>
     <a href="https://github.com/malescordia/libft"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/libftm.png"></img></h3>
 </div>
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
