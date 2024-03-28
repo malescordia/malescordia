@@ -14,7 +14,7 @@
 
 🌱 I'm currently learning **C++**
 
-⚡ About me: **A professional pianist gets passionate about a way different set of keys ⌨️ how the turn tables!**
+⚡ About me: **A professional pianist gets passionate about a different set of keys ⌨️ how the turn tables!**
 
  </div>
 
