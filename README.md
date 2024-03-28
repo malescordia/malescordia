@@ -12,7 +12,7 @@
  
  🎓 I’m proficient in **C and Bash**
 
-🌱 I'm currently learning **C++** at the moment
+🌱 I'm currently learning **C++**
 
 ⚡ About me: **A professional pianist gets passionate about a way different set of keys ⌨️ how the turn tables!**
 
