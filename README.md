@@ -32,6 +32,7 @@
 <h2 align="center">⚒️ My completed 42 Projects ⚒️</h2>
 <br/>
 <div align="center">
+    <a href="https://github.com/malescordia/minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png"></img>
     <a href="https://github.com/malescordia/philosophers"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png"></img>
     <a href="https://github.com/malescordia/push_swap"><img src="https://raw.githubusercontent.com/byaliego/42-project-badges/main/badges/push_swape.png"></img>
     <a href="https://github.com/malescordia/so_long"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/so_longe.png"></img>
