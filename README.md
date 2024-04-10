@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=malescordia.malescordia" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=In+a+perfect+world;men+like+me+do+not+exist...;but+this+is+not+a+perfect+world...;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Greetings!;Salut!;Olá!;Holla!;" />
 </h1>
 
 <br/>
