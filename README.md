@@ -10,7 +10,7 @@
  
  🖥️ I’m going through the common core at **42 Lisbon**
  
- 🎓 I’m proficient in **C and Bash**
+ 🎓 I’m proficient in **C** and **Bash**
 
 🌱 I'm currently learning **C++**
 
