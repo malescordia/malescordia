@@ -10,9 +10,9 @@
  
  🖥️ I’m going through the common core at **42 Lisbon**
  
- 🎓 I’m proficient in **C** and **Bash**
+ 🎓 I’m proficient in **C**, **C++** and **Bash**
 
-🌱 I'm currently learning **C++**
+🌱 I'm currently working on **cub3D**, a first person game with the intent of learning Ray-Casting
 
 ⚡ About me: **A professional pianist gets passionate about a different set of keys ⌨️ how the turn tables!**
 
@@ -32,6 +32,7 @@
 <h2 align="center">⚒️ My completed 42 Projects ⚒️</h2>
 <br/>
 <div align="center">
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png"></img>
     <a href="https://github.com/malescordia/CPP"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cppe.png"></img>
     <a href="https://github.com/malescordia/minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png"></img>
     <a href="https://github.com/malescordia/philosophers"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png"></img>
