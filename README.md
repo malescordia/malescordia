@@ -12,7 +12,7 @@
  
  🎓 I’m proficient in **C**, **C++** and **Bash**
 
-🌱 I'm currently working on **cub3D**, a first person game with the intent of learning Ray-Casting
+🌱 I'm currently working on **cub3D**, a first person game introducing Ray-Casting
 
 ⚡ About me: **A professional pianist gets passionate about a different set of keys ⌨️ how the turn tables!**
 
