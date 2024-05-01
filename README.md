@@ -32,7 +32,7 @@
 <h2 align="center">⚒️ My completed 42 Projects ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticem.png"></img>
+    <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png"></img>
     <a href="https://github.com/malescordia/CPP"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cppe.png"></img>
     <a href="https://github.com/malescordia/minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png"></img>
     <a href="https://github.com/malescordia/philosophers"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/philosopherse.png"></img>
