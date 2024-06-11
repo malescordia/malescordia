@@ -12,8 +12,6 @@
  
  🎓 I’m proficient in **C**, **C++** and **Bash**
 
-🌱 I'm currently working on **cub3D**, a first person game introducing Ray-Casting
-
 ⚡ About me: **A professional pianist gets passionate about a different set of keys ⌨️ how the turn tables!**
 
  </div>
@@ -29,6 +27,7 @@
 <h2 align="center">⚒️ My completed 42 Projects ⚒️</h2>
 <br/>
 <div align="center">
+    <a href="https://github.com/malescordia/cub3D"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cub3de.png></img>
     <img src="https://github.com/ayogun/42-project-badges/raw/main/badges/netpracticee.png"></img>
     <a href="https://github.com/malescordia/CPP"><img src="https://github.com/ayogun/42-project-badges/raw/main/badges/cppe.png"></img>
     <a href="https://github.com/malescordia/minishell"><img src="https://github.com/ayogun/42-project-badges/blob/main/badges/minishelle.png"></img>
